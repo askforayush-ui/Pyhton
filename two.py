@@ -8,9 +8,7 @@ print(f"You like {food}")
 print(f"Your Favourite fruit is {fruit}")
 #Integer datatype
 age = 23
-quantity = 7
 print(f"Your age is {age}")
-print(f"your number is{quantity}")
 #float datatype
 price = 70.99
 print(f"your cost of the toy is ${price}")
